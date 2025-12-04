@@ -1,0 +1,4 @@
+{
+  "schema": "https://didactic-succotash-g4rwqj7jpw75h959j-3000.app.github.dev/graphql",
+  "documents": "src/api/graphql/**/*.{js,jsx}"
+}
